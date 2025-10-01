@@ -1,1 +1,1 @@
-# Kukusune-Maze
+# KukuSune-Maze
